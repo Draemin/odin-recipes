@@ -7,4 +7,5 @@ For the time being it is meant to practice creating a page using purely HTML. La
 
 # Skills
 
-- HTML webpage design
+- HTML webpage design (images, links, lists, headings, etc)
+- Git commands (commits, pushes, pulls, repositories)
